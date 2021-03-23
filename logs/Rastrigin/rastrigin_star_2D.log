@@ -1,0 +1,2 @@
+[Experiment] CONFIG: {'funcName': 'Rastrigin', 'topology': 'star', 'N': 32, 'dimension': 2, 'generation': 50, 'nExperiments': 1, 'isSaveGif': True, 'fps:': 3}
+Run #01: {'SEED': '18520185', 'Generation: ': 50, 'Number of evaluations: ': 1632, 'Best position: ': array([ 7.24751217e-06, -2.79948546e-05]), 'Best finess value: ': 1.6590306728403448e-07, 'Distance to minimum: ': 2.891778547895059e-05}

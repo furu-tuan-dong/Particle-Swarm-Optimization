@@ -1,0 +1,21 @@
+[Experiment] CONFIG: {'funcName': 'Rosenbrock', 'topology': 'ring', 'N': 256, 'maxEvaluations': 1000000.0, 'dimension': 10, 'nExperiments': 10}
+Run #01: {'SEED': '18520185', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99664023, 0.99263996, 0.98538777, 0.97537329, 0.95446803,
+       0.91162634, 0.83906809, 0.71005873, 0.50758486, 0.25566762]), 'Best finess value: ': 0.3777635263050526, 'Distance to minimum: ': 0.9577248560853856}
+Run #02: {'SEED': '18520186', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99970461, 0.99953956, 0.99929717, 0.99858811, 0.99715052,
+       0.9945145 , 0.98898906, 0.97820005, 0.95717798, 0.91606815]), 'Best finess value: ': 0.002494081196681314, 'Distance to minimum: ': 0.09754873854826737}
+Run #03: {'SEED': '18520187', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99980585, 0.99970625, 0.9992867 , 0.99867563, 0.99735965,
+       0.99486147, 0.9897677 , 0.97966094, 0.95987526, 0.92143893]), 'Best finess value: ': 0.0021721230477316795, 'Distance to minimum: ': 0.0913015706896908}
+Run #04: {'SEED': '18520188', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99786966, 0.99626972, 0.992499  , 0.98587814, 0.97240471,
+       0.94864617, 0.90032097, 0.81232955, 0.65991797, 0.43586313]), 'Best finess value: ': 0.16588256619850605, 'Distance to minimum: ': 0.6947914536510466}
+Run #05: {'SEED': '18520189', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99983909, 0.99945802, 0.99814203, 0.99626829, 0.99234305,
+       0.98496619, 0.97063658, 0.94260103, 0.88855768, 0.78992001]), 'Best finess value: ': 0.017012398812430295, 'Distance to minimum: ': 0.24700645351692826}
+Run #06: {'SEED': '18520190', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99696416, 0.99526246, 0.99111585, 0.98338248, 0.96987293,
+       0.94314229, 0.8913762 , 0.79287813, 0.63069024, 0.39660941]), 'Best finess value: ': 0.19853376686567548, 'Distance to minimum: ': 0.7481281126658386}
+Run #07: {'SEED': '18520191', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99460746, 0.99075666, 0.98377142, 0.96640757, 0.94017368,
+       0.88543916, 0.78763942, 0.62845562, 0.40113413, 0.1588512 ]), 'Best finess value: ': 0.5770895823561158, 'Distance to minimum: ': 1.1258434945074494}
+Run #08: {'SEED': '18520192', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([1.00041983, 1.00090068, 1.001391  , 1.00269788, 1.00591206,
+       1.01220921, 1.02503707, 1.05110675, 1.10394597, 1.21871593]), 'Best finess value: ': 0.014409816844638783, 'Distance to minimum: ': 0.2491473331977502}
+Run #09: {'SEED': '18520193', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([0.99832279, 0.99688381, 0.99355378, 0.98657067, 0.97416802,
+       0.94921766, 0.90102636, 0.81137763, 0.65809235, 0.43302428]), 'Best finess value: ': 0.1659041864111441, 'Distance to minimum: ': 0.6980093450000976}
+Run #10: {'SEED': '18520194', 'Generation: ': 3905, 'Number of evaluations: ': 999936, 'Best position: ': array([1.00039633, 1.00121229, 1.00238711, 1.0051451 , 1.01039186,
+       1.02064829, 1.04146543, 1.08407507, 1.1748516 , 1.38008964]), 'Best finess value: ': 0.04002347179659248, 'Distance to minimum: ': 0.4294151356417101}

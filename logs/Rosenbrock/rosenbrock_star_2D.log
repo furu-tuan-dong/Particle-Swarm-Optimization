@@ -1,0 +1,2 @@
+[Experiment] CONFIG: {'funcName': 'Rosenbrock', 'topology': 'star', 'N': 32, 'dimension': 2, 'generation': 50, 'nExperiments': 1, 'isSaveGif': True, 'fps:': 3}
+Run #01: {'SEED': '18520185', 'Generation: ': 50, 'Number of evaluations: ': 1632, 'Best position: ': array([ 18.64326674, 348.7929908 ]), 'Best finess value: ': 460.5145482649441, 'Distance to minimum: ': 348.2402178216865}

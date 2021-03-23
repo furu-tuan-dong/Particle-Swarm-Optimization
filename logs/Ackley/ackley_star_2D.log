@@ -1,0 +1,2 @@
+[Experiment] CONFIG: {'funcName': 'Ackley', 'topology': 'star', 'N': 32, 'dimension': 2, 'generation': 50, 'nExperiments': 1, 'isSaveGif': True, 'fps:': 3}
+Run #01: {'SEED': '18520185', 'Generation: ': 50, 'Number of evaluations: ': 1632, 'Best position: ': array([ 5.07219075e-05, -1.53792957e-04]), 'Best finess value: ': 0.00045873750273273117, 'Distance to minimum: ': 0.00016194130310134654}
